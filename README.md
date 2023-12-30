@@ -32,7 +32,7 @@ Incorporating these features into a MIDI keyboard amplifies the potential for mu
 - The case design files are located in [case/](case.png).
 
 ### 3. Programming
-- The QMK project, located in [qmk/](qmk), contains the firmware necessary for the keyboard's operation.
+- The QMK project, located in [qmk/](./Qmk), contains the firmware necessary for the keyboard's operation.
 - The UF8 file to flash onto the Raspberry Pi Pico is also available in this directory.
 
 ## Keyboard Assembly
