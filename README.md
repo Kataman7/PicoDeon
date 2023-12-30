@@ -2,9 +2,8 @@
 
 Welcome to the repository of my diatonic MIDI keyboard project. This project involves the design and construction of a diatonic MIDI keyboard with a PCB, an acrylic case, and utilizes the QMK framework for programming the Raspberry Pi Pico microcontroller.
 
-![picodeon front](.\img\picodeon front.png)
-
-![picodeon back](.\img\picodeon back.png)
+<img src="./img/picodeon front.png" alt="Picodeon Front View">
+<img src="./img/picodeon back.png" alt="Picodeon Back View">
 
 ## The Excellence of Diatonic Keyboards
 
@@ -20,7 +19,7 @@ Diatonic keyboards offer an exceptional platform for musical composition and per
 
 Incorporating these features into a MIDI keyboard amplifies the potential for musical expression, making this diatonic MIDI keyboard project an exciting and valuable tool for musicians and composers alike.
 
-![accordion shemat](.\img\accordion shemat.png)
+<img src="./img/accordion shemat.png" alt="Accordion Schematic">
 
 ## Repository Contents
 
