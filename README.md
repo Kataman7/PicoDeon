@@ -1,7 +1,7 @@
 # PicoDeon
 DIY midi diatonic keyboard
 
-![picodeon front](img/'picodeon front')
+![picodeon front](img/'picodeon front.png')
 
 
 
