@@ -24,15 +24,15 @@ Incorporating these features into a MIDI keyboard amplifies the potential for mu
 ## Repository Contents
 
 ### 1. PCB
-- The Gerber file for the PCB can be found in the [pcb/](pcb/) directory.
+- The Gerber file for the PCB can be found in [pcb/](gherber.zip).
 - The complete KiCad project is also included for any future modifications.
 
 ### 2. Keyboard Case
 - The case consists of an upper plate and a bottom, both made of acrylic sheet.
-- The case design files are located in [case/](case/).
+- The case design files are located in [case/](case.png).
 
 ### 3. Programming
-- The QMK project, located in [qmk/](qmk/), contains the firmware necessary for the keyboard's operation.
+- The QMK project, located in [qmk/](qmk), contains the firmware necessary for the keyboard's operation.
 - The UF8 file to flash onto the Raspberry Pi Pico is also available in this directory.
 
 ## Keyboard Assembly
@@ -48,7 +48,8 @@ Incorporating these features into a MIDI keyboard amplifies the potential for mu
 
 3. **Firmware Flashing**
     - Connect the Raspberry Pi Pico to a computer.
-    - Use an appropriate programming tool to flash the UF8 file located in [qmk/](qmk/) onto the Raspberry Pi Pico.
+    - To flash the UF8 file onto the Raspberry Pi Pico, press the "Boot" button on the Pi Pico, connect it to your computer, and then drag and drop the firmware into the 
+      designated directory.
 
 4. **Usage**
     - Connect the keyboard to a computer or another MIDI-compatible device.
