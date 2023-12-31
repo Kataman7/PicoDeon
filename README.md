@@ -5,6 +5,8 @@ Welcome to the repository of my diatonic MIDI keyboard project. This project inv
 <img src="./img/picodeon front.png" alt="Picodeon Front View">
 <img src="./img/picodeon back.png" alt="Picodeon Back View">
 
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/MS7t3GJ2ovU" title="demo of picodeon in 320p, a chromatic midi keyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## The Excellence of chromatic Keyboards
 
 Diatonic keyboards offer an exceptional platform for musical composition and performance. Here's why:
