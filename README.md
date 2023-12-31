@@ -1,11 +1,11 @@
-# PicoDeon, a chromatique MIDI Keyboard Project
+# PicoDeon, a chromatic MIDI Keyboard Project
 
 Welcome to the repository of my diatonic MIDI keyboard project. This project involves the design and construction of a diatonic MIDI keyboard with a PCB, an acrylic case, and utilizes the QMK framework for programming the Raspberry Pi Pico microcontroller.
 
 <img src="./img/picodeon front.png" alt="Picodeon Front View">
 <img src="./img/picodeon back.png" alt="Picodeon Back View">
 
-## The Excellence of Diatonic Keyboards
+## The Excellence of chromatic Keyboards
 
 Diatonic keyboards offer an exceptional platform for musical composition and performance. Here's why:
 
