@@ -1,69 +1,51 @@
-# PicoDeon, a midi chromatic accordion keybaord
+# PicoDeon, a midi chromatic accordion keybaord - DIY Project
 
-Welcome to the repository of my diatonic MIDI keyboard project. This project involves the design and construction of a diatonic MIDI keyboard with a PCB, an acrylic case, and utilizes the QMK framework for programming the Raspberry Pi Pico microcontroller.
+Unable to find a MIDI accordion keyboard online! Isn't that strange? Everyone could use one, though... Well, no worries! I'm going to make my own :)
 
 <img src="./img/picodeon front.png" alt="Picodeon Front View">
 <img src="./img/picodeon back.png" alt="Picodeon Back View">
 
 You can watch a short demonstration on youtube [here](https://youtu.be/MS7t3GJ2ovU) 
 
-## The Excellence of chromatic Keyboards
+## Directory Contents
 
-Diatonic keyboards offer an exceptional platform for musical composition and performance. Here's why:
+### Keyboard PCB
+- The Gerber file for the PCB is available, along with its KiCad project. This will allow you to customize and adjust the keyboard according to your needs.
 
-- **Intuitive Harmony:** The diatonic scale's structure provides a natural and intuitive harmonic progression, making it easier for composers to create pleasing and melodious chord sequences.
+### Case Design
+- An SVG image representing the case design, consisting of an upper (plate) and a bottom made of acrylic sheet. This design ensures a sturdy and aesthetic structure.
 
-- **Expressive Playing:** Diatonic keyboards allow for expressive playing styles, enabling musicians to convey emotions through nuanced dynamics and articulations.
+### QMK Project and Firmware
+- The QMK (Quantum Mechanical Keyboard) project is included, along with the corresponding firmware to drag and drop into your Raspberry Pi Pico. Easy to integrate, it provides a smooth user experience.
 
-- **Versatile Creativity:** Whether you're a seasoned composer or a beginner, the diatonic keyboard's simplicity and versatility make it an excellent tool for exploring a wide range of musical genres.
+## Hardware Assembly
 
-- **Ease of Learning:** For those new to music, the diatonic layout simplifies the learning process, making it more accessible for beginners to understand and play musical concepts.
+To assemble your chromatic MIDI keyboard, you will need:
+- 60 SOD-123 diodes
+- 60 mechanical keyboard switches
+- 1 Raspberry Pi Pico
+- M2 screws and spacers to secure the plate, bottom, and PCB together.
 
-Incorporating these features into a MIDI keyboard amplifies the potential for musical expression, making this diatonic MIDI keyboard project an exciting and valuable tool for musicians and composers alike.
+## Assembly Steps
+
+1. Solder the 60 SOD-123 diodes onto the PCB.
+2. Attach the 60 mechanical keyboard switches to the corresponding locations.
+3. Integrate the Raspberry Pi Pico onto the PCB.
+4. Use M2 screws and spacers to securely assemble the plate, bottom, and PCB.
+
+## Accordion Experience
+
+Accordion keyboards offer a unique and powerful experience for composing chords. Their simple and natural layout facilitates musical creation. Using this customized chromatic MIDI keyboard will allow you to explore and enhance your musical skills in an innovative way.
 
 <img src="./img/accordion shemat.png" alt="Accordion Schematic">
 
-## Repository Contents
+## Purchase Option
 
-### 1. PCB
-- The Gerber file for the PCB can be found in [pcb/](gherber.zip).
-- The complete KiCad project is also included for any future modifications.
+If assembling the DIY keyboard seems challenging, you also have the option to purchase the fully assembled chromatic keyboard on PicoKeebs, making your musical experience even more accessible.
 
-### 2. Keyboard Case
-- The case consists of an upper plate and a bottom, both made of acrylic sheet.
-- The case design files are located in [case/](case.png).
+Enjoy your customized chromatic MIDI keyboard and explore new musical possibilities!
 
-### 3. Programming
-- The QMK project, located in [qmk/](./Qmk), contains the firmware necessary for the keyboard's operation.
-- The UF8 file to flash onto the Raspberry Pi Pico is also available in this directory.
 
-## Keyboard Assembly
-
-1. **Soldering Components to the PCB**
-    - Place and solder the 60 SOD 123 diodes on the PCB.
-    - Install the 60 mechanical keyboard switches in their respective positions.
-    - Solder the Raspberry Pi Pico onto the PCB.
-
-2. **Case Assembly**
-    - Use M2 screws and spacers to secure the upper plate, bottom, and PCB together.
-    - Ensure that the components align properly, and the keyboard is securely fastened.
-
-3. **Firmware Flashing**
-    - Connect the Raspberry Pi Pico to a computer.
-    - To flash the UF8 file onto the Raspberry Pi Pico, press the "Boot" button on the Pi Pico, connect it to your computer, and then drag and drop the firmware into the 
-      designated directory.
-
-4. **Usage**
-    - Connect the keyboard to a computer or another MIDI-compatible device.
-    - Experience the excellence of diatonic keyboards for composing chords and playing music!
-
-## Ready-to-Use Option
-
-For those who prefer a hassle-free experience, this diatonic MIDI keyboard is available for purchase on [picokeebs.fr](https://picokeebs.fr). Get your hands on a pre-assembled and ready-to-use version of this exceptional musical instrument.
-
-## Notes
-- Be sure to adhere to soldering specifications to avoid any operational issues.
-- Feel free to customize the project by making modifications to the PCB, case, or QMK firmware as needed.
 
 Have fun with your diatonic MIDI keyboard! If you have any questions or suggestions, feel free to share them in the repository's issues section.
 
