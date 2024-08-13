@@ -5,7 +5,6 @@ Unable to find a MIDI accordion keyboard online! Isn't that strange? Everyone co
 Buy one on [PicoKeebs.fr](https://www.picokeebs.fr/picodeon.php)
 You can watch a short demonstration on youtube [here](https://youtu.be/MS7t3GJ2ovU) 
 
-<img src="./img/picodeon_alu2.jpg">
 <img src="./img/layout.png">
 <img src="./img/pcb_shematic.png">
 
