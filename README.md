@@ -8,8 +8,8 @@ You can watch a short demonstration on youtube [here](https://youtu.be/MS7t3GJ2o
 <img src="./img/layout.png">
 <img src="./img/pcb_schematic.png">
 
-<img src="./img/pcb.png">
 <img src="./img/top_plate.png">
+<img src="./img/pcb.png">
 <img src="./img/bottom_plate.png">
 
 
