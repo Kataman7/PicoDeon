@@ -6,7 +6,7 @@ Buy one on [PicoKeebs.fr](https://www.picokeebs.fr/picodeon.php)
 You can watch a short demonstration on youtube [here](https://youtu.be/MS7t3GJ2ovU) 
 
 <img src="./img/layout.png">
-<img src="./img/pcb_shematic.png">
+<img src="./img/pcb_schematic.png">
 
 <img src="./img/pcb.png">
 <img src="./img/top_plate.png">
