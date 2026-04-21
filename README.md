@@ -13,6 +13,7 @@ You can watch a short demonstration on youtube [here](https://youtu.be/MS7t3GJ2o
 <img src="./img/pcb.png">
 <img src="./img/bottom_plate.png">
 
+<img src="./img/keycaps.png">
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
